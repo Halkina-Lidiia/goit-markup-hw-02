@@ -1,0 +1,77 @@
+.body-style {
+font-family: "Roboto", "Raleway" sans-serif;
+color: #434455;
+font-size: 16px;
+font-weight: 400;
+background: #F4F4FD;
+}
+
+
+
+.logo 
+{
+    color:  #4D5AE5; 
+    
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.logo-right {
+ color: #2E2F42;
+}
+.logo:hover.logo-right:focus {
+color: #404bbf;
+} 
+
+
+
+/* Body Medium */
+
+
+.site-nav
+{
+color: #2E2F42;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+
+}
+.social-links
+{
+    color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+
+}
+
+.title-2 
+{
+color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.07
+    letter-spacing: 1.12px;
+    width: 1440px;
+    height: 600px;
+    flex-shrink: 0;
+    background: #2E2F42; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+   
