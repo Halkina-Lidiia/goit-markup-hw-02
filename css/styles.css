@@ -101,7 +101,8 @@ color: #FFF;
  }
    
    .order-button:hover,
-   .order-button:focus { color: #404bbf; }
+   .order-button:focus {
+    background color: #404bbf; }
 
    .order-button { cursor: pointer; }
    
