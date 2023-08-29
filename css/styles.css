@@ -112,7 +112,7 @@ color: #FFF;
   /* our advantages */
 .advantages 
 {
-color: #2E2F42;
+    color: #2E2F42;
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
@@ -170,9 +170,9 @@ color: #2E2F42;
 .picture-title
 {
     color: #2E2F42;
+    font-size: 20px;
     text-align: center;
     font-family: Roboto;
-    font-size: 20px;
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
@@ -217,7 +217,7 @@ color: #2E2F42;
 .logo-info
 {
 color: #F4F4FD;
-background color: #2E2F42;
+background-color: #2E2F42;
 }
 
 
