@@ -10,22 +10,24 @@ background: #FFF;
 
 .logo 
 {
-color: #4D5AE5;
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 1.16;
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
+ color: #4D5AE5;
+ font-family: Raleway;
+ font-size: 18px;
+ font-style: normal;
+ font-weight: 700;
+ line-height: 1.16;
+ letter-spacing: 0.54px;
+ text-transform: uppercase;
 }
 
 .logo-right {
 color: #2E2F42;
 }
-.logo-right: hover {
-color: #2E2F42;
-} 
+
+.logo-right: hover,
+.logo-right: focus 
+{
+ color: #2E2F42; } 
 
 
 
@@ -33,7 +35,7 @@ color: #2E2F42;
 
 .site-nav
 {
-color: #2E2F42;
+    color: #2E2F42;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
