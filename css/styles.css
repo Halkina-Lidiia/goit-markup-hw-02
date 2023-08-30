@@ -68,8 +68,8 @@ color: #404bbf;
  color: #404bbf;
 }
 
-/* section */
-.title-hero
+    /* title */
+   .title-hero
 {
     color: #FFF;
     font-family: Roboto;
@@ -79,7 +79,8 @@ color: #404bbf;
     line-height: 1.07;
     letter-spacing: 0.02em;
     background: #2E2F42;
-}
+    text-align: center;
+}  
  .order-button
  {
     color: #FFF;
@@ -131,7 +132,8 @@ color: #404bbf;
         line-height: 1.11;
         letter-spacing: 0.72px;
         text-transform: capitalize;
-        background-color: #F4F4FD;
+        text-align: center;
+        background: #F4F4FD;
 }
 .person-title
 {
@@ -143,7 +145,7 @@ color: #404bbf;
     line-height: 1.2;
     letter-spacing: 0.4px;
     margin-bottom: 8px;
-    background-color: #fff;
+
 }
 .person-text
 {
@@ -167,6 +169,7 @@ color: #404bbf;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
 }
 .picture-names
 {
@@ -188,10 +191,11 @@ color: #404bbf;
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
-/* footer */
-.inform
+  /* footer */
+   .inform
 {
     color: #4D5AE5;
+    background-color: #2E2F42;
     font-family: Raleway,sans-serif;
     font-size: 18px;
     font-style: normal;
@@ -199,7 +203,7 @@ color: #404bbf;
     line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
-    background-color: #2E2F42;
+    
     }
  
 
@@ -213,11 +217,11 @@ background-color: #2E2F42;
 .inform-text
 {
     color:  #F4F4FD;
+    background: #2E2F42;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    background: #2E2F42;
 }
