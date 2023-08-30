@@ -42,7 +42,7 @@ color: #2E2F42;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    flex-shrink: 0;
+
 }
 .site-nav:hover,
 .site-nav:focus {
@@ -52,15 +52,13 @@ color: #404bbf;
 
 .social-links
 {
-   color: #434455;
+    color: #434455;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    flex-shrink: 0;
-    border-bottom: 1px;
     background: #fff;
 }
 .social-links:hover,
@@ -80,7 +78,12 @@ color: #404bbf;
     letter-spacing: 0.02em;
     background: #2E2F42;
     text-align: center;
-}  
+} 
+.title-hero
+{
+color: #FFF;
+background: #2E2F42;
+}
  .order-button
  {
     color: #FFF;
@@ -112,6 +115,7 @@ color: #404bbf;
     line-height: 1.2;
     letter-spacing: 0.4px;
 }
+
 .text 
 {   font-size: 16px;
     color: #434455;
@@ -125,6 +129,7 @@ color: #404bbf;
    .team-title
 {
         color: #2E2F42;
+        background: #F4F4FD;
         font-family: Roboto;
         font-size: 36px;
         font-style: normal;
@@ -133,18 +138,19 @@ color: #404bbf;
         letter-spacing: 0.72px;
         text-transform: capitalize;
         text-align: center;
-        background: #F4F4FD;
+        
 }
 .person-title
 {
     color: #2E2F42;
+    background-color: #FFF;
     font-family: Roboto;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.4px;
-    margin-bottom: 8px;
+
 
 }
 .person-text
@@ -161,15 +167,15 @@ color: #404bbf;
  /* portfolio */
 .picture-title
 {
-    color: #2E2F42;
-    font-size: 20px;
+    color:  #2E2F42;
+    text-align: center;
     font-family: Roboto;
+    font-size: 20px;
     font-style: normal;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    text-align: center;
 }
 .picture-names
 {
