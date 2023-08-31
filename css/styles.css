@@ -24,14 +24,11 @@ background: #FFF;
 color: #2E2F42;
 }
 
-.logo-right: hover,
-.logo-right: focus {
+.logo-right:hover,
+.logo-right:focus {
 color: #2E2F42;
 }
  
-  
-
-
 
 /* Body Medium */
 
@@ -69,6 +66,9 @@ color: #404bbf;
 }
 
     /* title */
+.title {
+background-color: #2E2F42;
+}
    .title-hero
 {
     color: #FFF;
@@ -124,10 +124,15 @@ color: #404bbf;
     letter-spacing: 0.32px;   
 }
  /* our team */
+       .team-list {
+    background-color: #F4F4FD;
+       }
+      .persons {
+       background-color: #FFF; 
+      }
    .team-title
 {
         color: #2E2F42;
-        background-color:#F4F4FD;
         font-family: Roboto;
         font-size: 36px;
         font-style: normal;
@@ -198,6 +203,10 @@ color: #404bbf;
     letter-spacing: 0.32px;
 }
   /* footer */
+
+  .informations {
+    background-color: #2E2F42;
+  }
    .inform
 {
     color: #4D5AE5;
